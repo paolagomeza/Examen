@@ -6,10 +6,9 @@ public class Materiales{
 		//Nodo Mad =new Pila3(null,20);
 	
 
-
-		Pila3<Integer> Mad = new Pila3<>(20);//PilaMadera 
-		Pila3<Integer> Res = new Pila3<>(20);//PilaResina
-		Pila3<Integer> Hil = new Pila3<>(20);//PilaHilo*/
+          Pila3 Mad = new Pila3(20);//Pil    aMadera   
+		Pila3 Res = new Pila3(20);//PilaResina
+		Pila3 Hil = new Pila3(20);//PilaHilo*/
 
 		boolean Mesa=false;
 		boolean Barco=false;
